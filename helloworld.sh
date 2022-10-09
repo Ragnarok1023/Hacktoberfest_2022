@@ -1,0 +1,1 @@
+echo "Hello world in bash xD"
